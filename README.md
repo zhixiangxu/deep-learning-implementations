@@ -23,7 +23,7 @@ Implementation of GAN with convolutional layer in Tensorflow.
 #### [`conditional_GAN.ipynb`](GAN/conditional_GAN.ipynb)
 Implementation of conditional GAN in Tensorflow.
 
-# RNN
+## RNN
 My implementations of [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN) models.
 
 #### [`imdb_rnn.py`](RNN/imdb_rnn.py)
