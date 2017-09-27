@@ -29,4 +29,4 @@ My implementations of [Recurrent neural network](https://en.wikipedia.org/wiki/R
 #### [`imdb_rnn.py`](RNN/imdb_rnn.py)
 Train a [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) model on the [IMDB sentiment classification dataset](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
 
-The demo of model is available at [zhouhaozeng.com/jarvis/sentiment_analysis/](www.zhouhaozeng.com/jarvis/sentiment_analysis/)
+The demo of model is available at [zhouhaozeng.com/jarvis/sentiment_analysis/](https://zhouhaozeng.com/jarvis/sentiment_analysis/)
