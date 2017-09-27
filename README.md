@@ -27,6 +27,6 @@ Implementation of conditional GAN in Tensorflow.
 My implementations of [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN) models.
 
 #### [`imdb_rnn.py`](RNN/imdb_rnn.py)
-Train a [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) model on the [IMDB sentiment classification dataset](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
+Training a [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) model on the [IMDB sentiment classification dataset](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
 
 The demo of a trained model is available at [zhouhaozeng.com/jarvis/sentiment_analysis/](http://zhouhaozeng.com/jarvis/sentiment_analysis/)
